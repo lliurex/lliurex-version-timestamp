@@ -1,6 +1,6 @@
 #!/bin/bash
-DATE=$(date +%y%m%d)
-VERSION="16.${DATE}"
+DATE=$(date +%Y%m%d)
+VERSION="23.${DATE}"
 LASTVERSION=$(dpkg-parsechangelog --show-field Version)
 rc=0
 dpkg --compare-versions $VERSION gt $LASTVERSION && rc=1
