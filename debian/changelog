@@ -1,0 +1,11 @@
+lliurex-version-timestamp (23.20230906.1) jammy; urgency=medium
+
+  * Jammy release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 07 Sep 2023 11:56:07 +0200
+
+lliurex-version-timestamp (19.20180418.1) bionic; urgency=medium
+
+  * Initial Release.
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 18 Apr 2018 15:04:25 +0200
